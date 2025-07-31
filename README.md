@@ -17,6 +17,5 @@ This is a beginner-level Python voice assistant project developed as part of the
 1. Install required packages:
    ```bash
    pip install speechrecognition pyttsx3 pyaudio
-2. Run the program:
-   python voice_assistant.py
+
 
