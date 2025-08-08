@@ -17,7 +17,7 @@ def greet():
         speak("Good afternoon!")
     else:
         speak("Good evening!")
-    speak("How can I help you?")
+    speak("How can I help you?")n
 
 def listen():
     r = sr.Recognizer()
